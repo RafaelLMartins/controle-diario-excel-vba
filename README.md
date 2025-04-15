@@ -2,7 +2,8 @@
 
 Este projeto apresenta um painel de controle desenvolvido em Excel com VBA, voltado para a gestão da produção e tempo médio de atendimento (TMA) de uma operação fictícia — **BurgerShot**.
 
-![Dashboard Produção BurgerShot](planilhabs.png)
+![Dashboard Produção BurgerShot](img/planilhabs.png)
+
 
 ---
 
